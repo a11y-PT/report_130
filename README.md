@@ -5,8 +5,8 @@ uri: "https://www.cm-pontadelgada.pt/"   # Entre as aspas escreve o domínio do 
 a11y_statement: "https://www.cm-pontadelgada.pt/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Município de Ponta Delgada"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "28/08/2026 a 28/08/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
